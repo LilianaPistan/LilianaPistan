@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: beige;
+}
+
+.main{
+    display: flex;
+}
+
+section{
+    width: 60vw;
+    height: 120px;
+}
+
+aside{
+    width: 60vw;
+}
+
+@media (max-width:600px)
+{
+    body{
+        background-color: rgb(108, 190, 201);
+    }
+
+    section{
+        width: 200px;
+    }
+}
+
+@media (min-width:601px) and (max-width:900px)
+{      
+     body{
+        background-color: bisque;
+     }
+
+}
