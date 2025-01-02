@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @LilianaPistan
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-LilianaPistan/LilianaPistan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hi, I’m **Liliana Pistan**  
+💻 **Full Stack Developer** | 🚀 Turning ideas into scalable solutions  
+👀 I’m passionate about **web development, APIs, and cloud technologies**  
+🌱 Currently exploring **machine learning** and **advanced backend systems**  
+💞️ Open to collaborating on **innovative projects** and **open-source contributions**  
+📬 Let’s connect: lilipistan27@gmail.com 
