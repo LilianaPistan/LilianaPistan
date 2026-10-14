@@ -49,13 +49,14 @@ Desarrolladora orientada a la creación de soluciones digitales eficientes: dise
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 
 ---
-
 ### 📌 Proyectos Destacados
 
-🛢️ Plataforma Web & API para Gestión de Cursos Oil & Gas:
-  Solución orientada a la industria energética para gestión de contenidos y comercialización técnica.
-    Arquitectura con backend en Python, endpoints REST probados con Postman y consumo en formato JSON
-  ⚡ Sistema Web de Gestión & CRUD:
-   Modelado relacional completo, desarrollo de servicios REST con FastAPI/Flask y consultas optimizadas en MySQL.
-  📊 Automatización y Análisis de Datos:
-  Limpieza, transformación y generación de reportes automáticos con Python (Pandas, NumPy) y tableros en Power BI.
+* **🛢️ Plataforma Web & API para Gestión de Cursos Oil & Gas**
+  * Solución orientada a la industria energética para gestión de contenidos y comercialización técnica.
+  * Arquitectura con backend en Python, endpoints REST probados con Postman y consumo en formato JSON.
+
+* **⚡ Sistema Web de Gestión & CRUD**
+  * Modelado relacional completo, desarrollo de servicios REST con FastAPI/Flask y consultas optimizadas en MySQL.
+
+* **📊 Automatización y Análisis de Datos**
+  * Limpieza, transformación y generación de reportes automáticos con Python (Pandas, NumPy) y tableros en Power BI.
